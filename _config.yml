@@ -1,11 +1,11 @@
 # Site settings
 author: Asha Fernandez
-title: 
+title: # Logic and Conditionals a metaphor for life
 header-img: img/home-bg.png
 email: ash.fernan90@gmail.com
 copyright_name: Asha Fernandez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Logic and Conditionals
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AshFernan
